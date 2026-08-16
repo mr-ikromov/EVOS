@@ -44,11 +44,4 @@ Bot ichida quyidagi asosiy komandalar va menyu tugmalari mavjud:
 | `/my_order` | 🛍 Buyurtmalarim | Foydalanuvchining barcha buyurtmalari tarixini ko'rish |
 | `/comment` | ✍️ Fikr bildirish | Bot yoki xizmat haqida izoh qoldirish |
 | `/language` | ⚙️ Sozlamalar | Bot interfeysi tilini o'zgartirish |
-
----
-   - Avval telefon raqamni yuboradi (Contact).
-   - Keyin o'z manzilini yuboradi (Location).
-6. Bot lokatsiyani OpenStreetMap API ga yuborib, aniq manzilni oladi va buyurtma ma'lumotlari (mahsulotlar, miqdor, telefon, manzil) backend'ga buyurtma sifatida saqlanadi.
-7. Buyurtma muvaffaqiyatli rasmiylashtirilgach, savatcha tozalanadi va foydalanuvchiga tabriklovchi xabar yuboriladi.
-
 ---
