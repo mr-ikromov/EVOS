@@ -1,0 +1,2333 @@
+[
+  {
+    "model": "home.category",
+    "pk": 1,
+    "fields": {
+      "title": "Aksiyalar",
+      "title_uz": "Aksiyalar",
+      "title_ru": "Акции",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/a0da2bfe94adb03929d698cf6bf15230.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 2,
+    "fields": {
+      "title": "Lavash",
+      "title_uz": "Lavash",
+      "title_ru": "Лаваш",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/22c159d0dd72eabb2775bbb8c409c006.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 3,
+    "fields": {
+      "title": "Shaurma",
+      "title_uz": "Shaurma",
+      "title_ru": "Шаурма",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/10911e094aa583f81ffbeaaa17fd61bb.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 4,
+    "fields": {
+      "title": "Burgerlar",
+      "title_uz": "Burgerlar",
+      "title_ru": "Бургеры",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/0a1137b30c36e6d8c4682f8952f6d49c.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 5,
+    "fields": {
+      "title": "Trindwich",
+      "title_uz": "Trindwich",
+      "title_ru": "Триндвич",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6933b90a242378cfa29699de5f3b1d78.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 6,
+    "fields": {
+      "title": "Taom",
+      "title_uz": "Taom",
+      "title_ru": "Еда",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/88b94f96f270241940e7c7648ff4c8c9.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 7,
+    "fields": {
+      "title": "Xot Dog",
+      "title_uz": "Xot Dog",
+      "title_ru": "Хот-дог",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2dfd5c2a900e9b97aacc257b1c0470b1.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 8,
+    "fields": {
+      "title": "Kartoshka",
+      "title_uz": "Kartoshka",
+      "title_ru": "Картофель",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/539199e379aacfe878aeb3719bae9e56.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 9,
+    "fields": {
+      "title": "Sneklar",
+      "title_uz": "Sneklar",
+      "title_ru": "Снеки",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3040f6b11386264cc638a6e4169e0f4c.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 10,
+    "fields": {
+      "title": "Combo",
+      "title_uz": "Combo",
+      "title_ru": "Комбо",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2aba98ab3357b7abc7199448372beb4b.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 11,
+    "fields": {
+      "title": "Setlar va Juftliklar",
+      "title_uz": "Setlar va Juftliklar",
+      "title_ru": "Сеты и Пары",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6efe80ecc4ef12fc9d0a9d2e2825360c.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 12,
+    "fields": {
+      "title": "Magic Box",
+      "title_uz": "Magic Box",
+      "title_ru": "Волшебная коробка",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/ac425eb3dc73839c81ec75f46f7aa5c9.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 13,
+    "fields": {
+      "title": "Salatlar",
+      "title_uz": "Salatlar",
+      "title_ru": "Cалаты",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/91d6e2787a65b6acc7e68aae9263f85f.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 14,
+    "fields": {
+      "title": "Souslar va qo'shimchalar",
+      "title_uz": "Souslar va qo'shimchalar",
+      "title_ru": "Соусы, добавки",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6878a4fcd2772bef08e312e974cd0667.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 15,
+    "fields": {
+      "title": "Ichimliklar",
+      "title_uz": "Ichimliklar",
+      "title_ru": "Напитки",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6ff4d85931d5cf451e6c84c2d7a26fc5.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 16,
+    "fields": {
+      "title": "Sharbatlar",
+      "title_uz": "Sharbatlar",
+      "title_ru": "Соки",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/733a635f9f79c0f2425c798e12e2278e.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 17,
+    "fields": {
+      "title": "Choy",
+      "title_uz": "Choy",
+      "title_ru": "Чай",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fecf75a9c0d1c9df783f2b5a327d983d.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 18,
+    "fields": {
+      "title": "Qahva",
+      "title_uz": "Qahva",
+      "title_ru": "Кофе",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e0d9bcb34e33c27e6a460a638e64ff35.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 19,
+    "fields": {
+      "title": "Desertlar",
+      "title_uz": "Desertlar",
+      "title_ru": "Десерты",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5795d70d9a6b7790adff3a681c795bd0.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.category",
+    "pk": 20,
+    "fields": {
+      "title": "Yulduzli kombinatsiya",
+      "title_uz": "Yulduzli kombinatsiya",
+      "title_ru": "Звёздное Комбо",
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5a32a682e6503452c9fa57317ae0666e.PNG",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 1,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2e8f42fc521b305c99abfffbec9265ca.PNG",
+      "title": "Мачо Лаваш",
+      "title_uz": "Macho Lavash",
+      "title_ru": "Мачо Лаваш",
+      "price": 63000,
+      "description": "Двойная порция сочной говядины донер, слайсы спелых томатов, свежий лук с зеленью и восточный томатный соус в тонком лаваше.",
+      "description_uz": "Ikki porsiya shirali mol go'shti doner, pishgan pomidor tilimlari, ko'katlar bilan yangi piyoz va yupqa lavashda sharqona pomidor sousi.",
+      "description_ru": "Двойная порция сочной говядины донер, слайсы спелых томатов, свежий лук с зеленью и восточный томатный соус в тонком лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 2,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/22c159d0dd72eabb2775bbb8c409c006.PNG",
+      "title": "Лаваш с говядиной S",
+      "title_uz": "Mol go'shtli lavash S",
+      "title_ru": "Лаваш с говядиной S",
+      "price": 26000,
+      "description": "Сочная говядина донер, слайсы спелых томатов, хрустящие чипсы, ароматный томатный соус и нежный майонез в тесте лаваша.",
+      "description_uz": "Shirali mol go'shti doner, pishgan pomidor tilimlari, qarsildoq chiplar, xushbo'y pomidor sousi va mayin mayonez lavash xamirida.",
+      "description_ru": "Сочная говядина донер, слайсы спелых томатов, хрустящие чипсы, ароматный томатный соус и нежный майонез в тесте лаваша.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 3,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/075722683b37583947f8e277e6879e35.PNG",
+      "title": "Лавашелло L",
+      "title_uz": "Lavashello L",
+      "title_ru": "Лавашелло L",
+      "price": 37000,
+      "description": "Нежные куриные кусочки в сочетании со свежими помидорами, хрустящей капустой и ароматным чесночным соусом – идеальный выбор для любого обеда.",
+      "description_uz": "Mayin tovuq bo'laklari yangi pomidorlar, qarsildoq karam va xushbo'y sarimsoq sousi bilan birlashgan – har qanday tushlik uchun ajoyib tanlov.",
+      "description_ru": "Нежные куриные кусочки в сочетании со свежими помидорами, хрустящей капустой и ароматным чесночным соусом – идеальный выбор для любого обеда.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 4,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/876582c9a340f90c3d2aac620aa5d40c.PNG",
+      "title": "Лавашелло M",
+      "title_uz": "Lavashello M",
+      "title_ru": "Лавашелло M",
+      "price": 31000,
+      "description": "Нежные куриные кусочки в сочетании со свежими помидорами, хрустящей капустой и ароматным чесночным соусом – идеальный выбор для любого обеда.",
+      "description_uz": "Mayin tovuq bo'laklari yangi pomidorlar, qarsildoq karam va xushbo'y sarimsoq sousi bilan birlashgan – har qanday tushlik uchun ajoyib tanlov.",
+      "description_ru": "Нежные куриные кусочки в сочетании со свежими помидорами, хрустящей капустой и ароматным чесночным соусом – идеальный выбор для любого обеда.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 5,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/39b87ec5fec82c114d302e38dd910fee.PNG",
+      "title": "Лаваш с говядиной - L",
+      "title_uz": "Mol go'shtli lavash - L",
+      "title_ru": "Лаваш с говядиной - L",
+      "price": 43000,
+      "description": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, томатный восточный соус со свежим луком и зеленью в свежайшем классическом лаваше.",
+      "description_uz": "Shirali mol go'shti doner va pishgan pomidor bo'laklari, tilla rangli kartoshka chiplari, yangi piyoz va ko'katlar bilan sharqona pomidor sousi eng yangi klassik lavashda.",
+      "description_ru": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, томатный восточный соус со свежим луком и зеленью в свежайшем классическом лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 6,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/0a9ee109abf3d76e362f19746d550fce.PNG",
+      "title": "Лаваш с курицей - L",
+      "title_uz": "Tovuqli lavash - L",
+      "title_ru": "Лаваш с курицей - L",
+      "price": 37000,
+      "description": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы,  томатный восточный соус со свежим луком и зеленью в  классическом лаваше.",
+      "description_uz": "Tovuq go'shti doner, firma retsepti bo'yicha sharq ziravorlari bilan marinadlangan, yangi pishgan pomidor bo'laklari, tabiiy kartoshka chiplari, yangi piyoz va ko'katlar bilan sharqona pomidor sousi klassik lavashda.",
+      "description_ru": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы,  томатный восточный соус со свежим луком и зеленью в  классическом лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 7,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/0a1c5a19dce2320592e9ca1d9b2c2130.PNG",
+      "title": "Лаваш острый с говядиной - L",
+      "title_uz": "Mol go'shtli achchiq lavash - L",
+      "title_ru": "Лаваш острый с говядиной - L",
+      "price": 43000,
+      "description": "Сочные кусочки говядины донер и спелых помидоров, золотистые чипсы, томатный острый соус Калампир со свежим луком в румяном ред-лаваше.",
+      "description_uz": "Shirali mol go'shti doner va pishgan pomidor bo'laklari, tilla chiplar, yangi piyoz bilan Kalampir achchiq pomidor sousi qizg'ish red-lavashda.",
+      "description_ru": "Сочные кусочки говядины донер и спелых помидоров, золотистые чипсы, томатный острый соус Калампир со свежим луком в румяном ред-лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 8,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/744a101475a701b05c112d1ff14c6e59.PNG",
+      "title": "Лаваш острый с курицей L",
+      "title_uz": "Tovuqli achchiq lavash L",
+      "title_ru": "Лаваш острый с курицей L",
+      "price": 37000,
+      "description": "Пикантное куриное мясо донер, кусочки спелых помидоров, золотистые чипсы, томатный острый соус Калампир со свежим луком в румяном ред-лаваше.",
+      "description_uz": "Achchiq tovuq go'shti doner, pishgan pomidor bo'laklari, tilla chiplar, yangi piyoz bilan Kalampir achchiq pomidor sousi qizg'ish red-lavashda.",
+      "description_ru": "Пикантное куриное мясо донер, кусочки спелых помидоров, золотистые чипсы, томатный острый соус Калампир со свежим луком в румяном ред-лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 9,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3a99a11a9c4caf41c03085c484aa6ea8.PNG",
+      "title": "Лаваш с говядиной и сыром - L",
+      "title_uz": "Mol go'shtli va pishloqli lavash - L",
+      "title_ru": "Лаваш с говядиной и сыром - L",
+      "price": 46000,
+      "description": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, сыр \"Чеддер\" и томатный восточный соус со свежим луком и зеленью в свежайшем классическом лаваше",
+      "description_uz": "Shirali mol go'shti doner va pishgan pomidor bo'laklari, tilla kartoshka chiplari, Cheddar pishlog'i va yangi piyoz hamda ko'katlar bilan sharqona pomidor sousi eng yangi klassik lavashda.",
+      "description_ru": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, сыр \"Чеддер\" и томатный восточный соус со свежим луком и зеленью в свежайшем классическом лаваше",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 10,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/d533a617aec951505e0d172ff64acf59.PNG",
+      "title": "Лаваш с курицей и сыром - L",
+      "title_uz": "Tovuqli va pishloqli lavash - L",
+      "title_ru": "Лаваш с курицей и сыром - L",
+      "price": 40000,
+      "description": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы, ломтик сыра \"Чеддер\",  томатный восточный соус со свежим луком и зеленью в сырном лаваше.",
+      "description_uz": "Tovuq go'shti doner, firma retsepti bo'yicha sharq ziravorlari bilan marinadlangan, yangi pishgan pomidor bo'laklari, tabiiy kartoshka chiplari, Cheddar pishlog'i tilimi, yangi piyoz va ko'katlar bilan sharqona pomidor sousi pishloqli lavashda.",
+      "description_ru": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы, ломтик сыра \"Чеддер\",  томатный восточный соус со свежим луком и зеленью в сырном лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 11,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/cf13937e4755cf7fdd8f8f814d43d82b.PNG",
+      "title": "Лаваш с говядиной M",
+      "title_uz": "Mol go'shtli lavash M",
+      "title_ru": "Лаваш с говядиной M",
+      "price": 37000,
+      "description": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, томатный восточный соус со свежим луком и зеленью в свежайшем классическом лаваше. Мини-версия - идеально в качестве легкого перекуса!",
+      "description_uz": "Shirali mol go'shti doner va pishgan pomidor bo'laklari, tilla kartoshka chiplari, yangi piyoz va ko'katlar bilan sharqona pomidor sousi eng yangi klassik lavashda. Mini-versiya - yengil gazak sifatida ajoyib!",
+      "description_ru": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, томатный восточный соус со свежим луком и зеленью в свежайшем классическом лаваше. Мини-версия - идеально в качестве легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 12,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e1422cf60b343778af82ece8c0f85758.PNG",
+      "title": "Лаваш с курицей M",
+      "title_uz": "Tovuqli lavash M",
+      "title_ru": "Лаваш с курицей M",
+      "price": 30000,
+      "description": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы,  томатный восточный соус с кусочками лука и пряными травами в  классическом лаваше. Мини-версия - идеально в качестве легкого перекуса!",
+      "description_uz": "Tovuq go'shti doner, firma retsepti bo'yicha sharq ziravorlari bilan marinadlangan, yangi pishgan pomidor bo'laklari, tabiiy kartoshka chiplari, piyoz bo'laklari va xushbo'y o'tlar bilan sharqona pomidor sousi klassik lavashda. Mini-versiya - yengil gazak sifatida ajoyib!",
+      "description_ru": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы,  томатный восточный соус с кусочками лука и пряными травами в  классическом лаваше. Мини-версия - идеально в качестве легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 13,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e15ac836c4b233679618c85d685276b9.PNG",
+      "title": "Лаваш с говядиной и сыром M",
+      "title_uz": "Mol go'shtli va pishloqli lavash M",
+      "title_ru": "Лаваш с говядиной и сыром M",
+      "price": 40000,
+      "description": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, сыр Чеддер и томатный восточный соус со свежим луком и зеленью в свежайшем сырном лаваше. Мини-версия - идеально в качестве легкого перекуса!",
+      "description_uz": "Shirali mol go'shti doner va pishgan pomidor bo'laklari, tilla kartoshka chiplari, Cheddar pishlog'i va yangi piyoz hamda ko'katlar bilan sharqona pomidor sousi eng yangi pishloqli lavashda. Mini-versiya - yengil gazak sifatida ajoyib!",
+      "description_ru": "Сочные кусочки говядины донер и спелых помидоров, золотистые картофельные чипсы, сыр Чеддер и томатный восточный соус со свежим луком и зеленью в свежайшем сырном лаваше. Мини-версия - идеально в качестве легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 14,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6d0b736b1b773ca491e2794fd94f59a1.PNG",
+      "title": "Лаваш с курицей и сыром M",
+      "title_uz": "Tovuqli va pishloqli lavash M",
+      "title_ru": "Лаваш с курицей и сыром M",
+      "price": 33000,
+      "description": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы, ломтик сыра \"Чеддер\",  томатный восточный соус со свежим луком и зеленью в сырном лаваше.",
+      "description_uz": "Tovuq go'shti doner, firma retsepti bo'yicha sharq ziravorlari bilan marinadlangan, yangi pishgan pomidor bo'laklari, tabiiy kartoshka chiplari, Cheddar pishlog'i tilimi, yangi piyoz va ko'katlar bilan sharqona pomidor sousi pishloqli lavashda.",
+      "description_ru": "Куриное мясо донер, маринованное по фирменному рецепту с восточными специями, кусочки свежего спелого помидора, натуральные картофельные чипсы, ломтик сыра \"Чеддер\",  томатный восточный соус со свежим луком и зеленью в сырном лаваше.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 15,
+    "fields": {
+      "category": 2,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/87b09ef383f66cdb1a161d217cca7e5e.PNG",
+      "title": "Фиттер",
+      "title_uz": "Fitter",
+      "title_ru": "Фиттер",
+      "price": 36000,
+      "description": "Нежное куриное мясо гриль, салат \"Айсберг\", кусочки спелого помидора и свежего огурца, мягкий сыр \"Фетакса\", легкий сливочный соус Эко в нежно-салатовом лаваше Фиттер",
+      "description_uz": "Mayin tovuq go'shti grill, Ayberg salati, pishgan pomidor va yangi bodring bo'laklari, yumshoq Fetaksa pishlog'i, engil Eko qaymoqli sous, mayin salat rangli Fitter lavashida.",
+      "description_ru": "Нежное куриное мясо гриль, салат \"Айсберг\", кусочки спелого помидора и свежего огурца, мягкий сыр \"Фетакса\", легкий сливочный соус Эко в нежно-салатовом лаваше Фиттер",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 16,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e24de5127be32313d6f78ed5c1b29583.PNG",
+      "title": "Мачо Шаурма",
+      "title_uz": "Macho Shaurma",
+      "title_ru": "Мачо Шаурма",
+      "price": 60000,
+      "description": "Двойная порция сочной говядины донер, слайсы свежих томатов и огурцов и восточный томатный соус в нежной булочке.",
+      "description_uz": "Ikki porsiya shirali mol go'shti doner, yangi pomidor va bodring tilimlari va mayin bulochkada sharqona pomidor sousi.",
+      "description_ru": "Двойная порция сочной говядины донер, слайсы свежих томатов и огурцов и восточный томатный соус в нежной булочке.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 17,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/cf6d2d1c584f3febe7f87e100c684d77.PNG",
+      "title": "Шаурмито L",
+      "title_uz": "Shaurmito L",
+      "title_ru": "Шаурмито L",
+      "price": 34000,
+      "description": "Румяное куриное мясо донер, кусочки свежего огурца и сочного помидора, чесночный восточный соус со свежим луком и зеленью в ароматной полукруглой булочке с кунжутными семечками",
+      "description_uz": "Qizg'ish tovuq go'shti doner, yangi bodring va shirali pomidor bo'laklari, yangi piyoz va ko'katlar bilan sarimsoqli sharqona sous, kunjut urug'lari bilan xushbo'y yarim doira bulochkada.",
+      "description_ru": "Румяное куриное мясо донер, кусочки свежего огурца и сочного помидора, чесночный восточный соус со свежим луком и зеленью в ароматной полукруглой булочке с кунжутными семечками",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 18,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/512fa927b2370de23f9e72dd9b86c047.PNG",
+      "title": "Шаурмито M",
+      "title_uz": "Shaurmito M",
+      "title_ru": "Шаурмито M",
+      "price": 30000,
+      "description": "Румяное куриное мясо донер, кусочки свежего огурца и сочного помидора, чесночный восточный соус со свежим луком и зеленью в ароматной полукруглой булочке с кунжутными семечками",
+      "description_uz": "Qizg'ish tovuq go'shti doner, yangi bodring va shirali pomidor bo'laklari, yangi piyoz va ko'katlar bilan sarimsoqli sharqona sous, kunjut urug'lari bilan xushbo'y yarim doira bulochkada.",
+      "description_ru": "Румяное куриное мясо донер, кусочки свежего огурца и сочного помидора, чесночный восточный соус со свежим луком и зеленью в ароматной полукруглой булочке с кунжутными семечками",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 19,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/10911e094aa583f81ffbeaaa17fd61bb.PNG",
+      "title": "Шаурма с говядиной L",
+      "title_uz": "Mol go'shtli shaurma L",
+      "title_ru": "Шаурма с говядиной L",
+      "price": 39000,
+      "description": "Сочные кусочки говядины донер, свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "description_uz": "Shirali mol go'shti doner, yangi bodring va shirali pomidor bo'laklari, sharqona pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada. Mini-versiya - yengil gazak uchun ajoyib!",
+      "description_ru": "Сочные кусочки говядины донер, свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 20,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2d2e26aa7ff0d55591bd7acd08bedade.PNG",
+      "title": "Шаурма с курицей L",
+      "title_uz": "Tovuqli shaurma L",
+      "title_ru": "Шаурма с курицей L",
+      "price": 34000,
+      "description": "Румянное куриное мясо донер, кусочки свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками.",
+      "description_uz": "Qizg'ish tovuq go'shti doner, yangi bodring va shirali pomidor bo'laklari, sharqona pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada.",
+      "description_ru": "Румянное куриное мясо донер, кусочки свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 21,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/d1c4d15bcf7023397b8208b3bf8a81b2.PNG",
+      "title": "Шаурма острая с говядиной L",
+      "title_uz": "Mol go'shtli achchiq shaurma L",
+      "title_ru": "Шаурма острая с говядиной L",
+      "price": 39000,
+      "description": "Нежнейшая пикантная говядина донер, кусочки свежего огурца и сочного помидора, острый томатный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "description_uz": "Eng mayin achchiq mol go'shti doner, yangi bodring va shirali pomidor bo'laklari, achchiq pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada. Mini-versiya - yengil gazak uchun ajoyib!",
+      "description_ru": "Нежнейшая пикантная говядина донер, кусочки свежего огурца и сочного помидора, острый томатный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 22,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e2770e5ff40fed4d5fd3ae57ff019777.PNG",
+      "title": "Шаурма острая c курицей L",
+      "title_uz": "Tovuqli achchiq shaurma L",
+      "title_ru": "Шаурма острая c курицей L",
+      "price": 34000,
+      "description": "Румянное куриное мясо донер, ломтики свежего огурца и сочного помидора, томатный острый соус Калампир в ароматной булочке с кунжутными семечками.",
+      "description_uz": "Qizg'ish tovuq go'shti doner, yangi bodring va shirali pomidor tilimlari, Kalampir achchiq pomidor sousi, kunjut urug'lari bilan xushbo'y bulochkada.",
+      "description_ru": "Румянное куриное мясо донер, ломтики свежего огурца и сочного помидора, томатный острый соус Калампир в ароматной булочке с кунжутными семечками.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 23,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/10911e094aa583f81ffbeaaa17fd61bb.PNG",
+      "title": "Шаурма с говядиной и сыром L",
+      "title_uz": "Mol go'shtli va pishloqli shaurma L",
+      "title_ru": "Шаурма с говядиной и сыром L",
+      "price": 42000,
+      "description": "Сочные кусочки говядины донер, свежего огурца и сочного помидора, сыр Чеддер, острый томатный соус в ароматной полукруглой булочке с кунжутными семечками.",
+      "description_uz": "Shirali mol go'shti doner, yangi bodring va shirali pomidor bo'laklari, Cheddar pishlog'i, achchiq pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada.",
+      "description_ru": "Сочные кусочки говядины донер, свежего огурца и сочного помидора, сыр Чеддер, острый томатный соус в ароматной полукруглой булочке с кунжутными семечками.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 24,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/cea263b95132dcc8913e26774890bf8b.PNG",
+      "title": "Шаурма с говядиной M",
+      "title_uz": "Mol go'shtli shaurma M",
+      "title_ru": "Шаурма с говядиной M",
+      "price": 33000,
+      "description": "Сочные кусочки говядины донер, свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "description_uz": "Shirali mol go'shti doner, yangi bodring va shirali pomidor bo'laklari, sharqona pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada. Mini-versiya - yengil gazak uchun ajoyib!",
+      "description_ru": "Сочные кусочки говядины донер, свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 25,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e953ed504adc2a2e7423b5f7b1bd4477.PNG",
+      "title": "Шаурма с курицей M",
+      "title_uz": "Tovuqli shaurma M",
+      "title_ru": "Шаурма с курицей M",
+      "price": 30000,
+      "description": "Румянное куриное мясо донер, ломтики свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально в качестве легкого перекуса!",
+      "description_uz": "Qizg'ish tovuq go'shti doner, yangi bodring va shirali pomidor tilimlari, sharqona pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada. Mini-versiya - yengil gazak sifatida ajoyib!",
+      "description_ru": "Румянное куриное мясо донер, ломтики свежего огурца и сочного помидора, томатный восточный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально в качестве легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 26,
+    "fields": {
+      "category": 3,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5bea82fe1064b5e5e03895976a5cc5c8.PNG",
+      "title": "Шаурма острая с говядиной M",
+      "title_uz": "Mol go'shtli achchiq shaurma M",
+      "title_ru": "Шаурма острая с говядиной M",
+      "price": 33000,
+      "description": "Нежнейшая пикантная говядина донер, кусочки свежего огурца и сочного помидора, острый томатный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "description_uz": "Eng mayin achchiq mol go'shti doner, yangi bodring va shirali pomidor bo'laklari, achchiq pomidor sousi, kunjut urug'lari bilan xushbo'y yarim doira bulochkada. Mini-versiya - yengil gazak uchun ajoyib!",
+      "description_ru": "Нежнейшая пикантная говядина донер, кусочки свежего огурца и сочного помидора, острый томатный соус в ароматной полукруглой булочке с кунжутными семечками. Мини-версия - идеально для легкого перекуса!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 27,
+    "fields": {
+      "category": 4,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/0a1137b30c36e6d8c4682f8952f6d49c.PNG",
+      "title": "Чикен Бургер L",
+      "title_uz": "Chicken Burger L",
+      "title_ru": "Чикен Бургер L",
+      "price": 34000,
+      "description": "Этот бургер с куриной котлетой, нежным сливочным соусом и овощами – отличный выбор для тех, кто ценит вкус и питательность. Сыр чеддар и свежий айсберг придают вкус, который зарядит энергией на весь день.",
+      "description_uz": "Bu burger tovuq kotleti, mayin qaymoqli sous va sabzavotlar bilan – lazzat va to'yimlilikni qadrlaydiganlar uchun ajoyib tanlov. Cheddar pishlog'i va yangi Ayberg salati kun bo'yi energiya beradigan ta'mni qo'shadi.",
+      "description_ru": "Этот бургер с куриной котлетой, нежным сливочным соусом и овощами – отличный выбор для тех, кто ценит вкус и питательность. Сыр чеддар и свежий айсберг придают вкус, который зарядит энергией на весь день.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 28,
+    "fields": {
+      "category": 4,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/9aedd25b0112d4bdd5f84c40840b85ba.PNG",
+      "title": "Чикен Бургер S",
+      "title_uz": "Chicken Burger S",
+      "title_ru": "Чикен Бургер S",
+      "price": 15000,
+      "description": "Мини Чикен Бургер — перекус, отражающий уникальное сочетание вкусов. Куриная котлета, сыр чеддер, разнообразные овощи и сливочный соус между двумя мягкими булочками.",
+      "description_uz": "Mini Chicken Burger - lazzatlarning noyob uyg'unligini aks ettiruvchi gazak. Tovuq kotleti, Cheddar pishlog'i, turli sabzavotlar va qaymoqli sous ikkita yumshoq bulochka orasida.",
+      "description_ru": "Мини Чикен Бургер — перекус, отражающий уникальное сочетание вкусов. Куриная котлета, сыр чеддер, разнообразные овощи и сливочный соус между двумя мягкими булочками.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 29,
+    "fields": {
+      "category": 4,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/93918d4f027f4e3d60269790e8b3ee58.PNG",
+      "title": "Гамбургер",
+      "title_uz": "Gamburger",
+      "title_ru": "Гамбургер",
+      "price": 36000,
+      "description": "Сочная котлета из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг\", кольца красного сладкого лука под сливочно-томатным соусом в мягкой круглой булочке",
+      "description_uz": "Tabiiy mol go'shtidan tayyorlangan shirali kotlet, pishgan yangi pomidor va tuzlangan bodringning dumaloq bo'laklari, Ayberg salati, qaymoqli-pomidor sousi ostida qizil shirin piyoz halqalari yumshoq dumaloq bulochkada.",
+      "description_ru": "Сочная котлета из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг\", кольца красного сладкого лука под сливочно-томатным соусом в мягкой круглой булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 30,
+    "fields": {
+      "category": 4,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/862c001ac9959913b15e40edf5b0aa08.PNG",
+      "title": "Чизбургер",
+      "title_uz": "Chizburger",
+      "title_ru": "Чизбургер",
+      "price": 38000,
+      "description": "Сочная котлета из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг, ломтик сыра \"Чеддер\" под сливочно-томатным соусом в мягкой круглой булочке",
+      "description_uz": "Tabiiy mol go'shtidan tayyorlangan shirali kotlet, pishgan yangi pomidor va tuzlangan bodringning dumaloq bo'laklari, Ayberg salati, Cheddar pishlog'i tilimi, qaymoqli-pomidor sousi ostida yumshoq dumaloq bulochkada.",
+      "description_ru": "Сочная котлета из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг, ломтик сыра \"Чеддер\" под сливочно-томатным соусом в мягкой круглой булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 31,
+    "fields": {
+      "category": 4,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/c6496259a485c1b97ae00ca8b06395cb.PNG",
+      "title": "Даблбургер",
+      "title_uz": "Dablburger",
+      "title_ru": "Даблбургер",
+      "price": 52000,
+      "description": "Две сочные котлеты из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг\", кольца красного сладкого лука под сливочно-томатным соусом в мягкой булочке",
+      "description_uz": "Tabiiy mol go'shtidan ikkita shirali kotlet, pishgan yangi pomidor va tuzlangan bodringning dumaloq bo'laklari, Ayberg salati, qaymoqli-pomidor sousi ostida qizil shirin piyoz halqalari yumshoq bulochkada.",
+      "description_ru": "Две сочные котлеты из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг\", кольца красного сладкого лука под сливочно-томатным соусом в мягкой булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 32,
+    "fields": {
+      "category": 4,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/bbb9108c48b1348d24d3ad3216eb0c78.PNG",
+      "title": "Дабл чизбургер",
+      "title_uz": "Dabl chizburger",
+      "title_ru": "Дабл чизбургер",
+      "price": 57000,
+      "description": "Две сочных котлеты из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг, два ломтика сыра \"Чеддер\" под сливочно-томатным соусом в мягкой круглой булочке",
+      "description_uz": "Tabiiy mol go'shtidan ikkita shirali kotlet, pishgan yangi pomidor va tuzlangan bodringning dumaloq bo'laklari, Ayberg salati, ikkita Cheddar pishlog'i tilimi, qaymoqli-pomidor sousi ostida yumshoq dumaloq bulochkada.",
+      "description_ru": "Две сочных котлеты из натуральной говядины, круглые кусочки спелого свежего помидора и маринованного огурца, салат Айсберг, два ломтика сыра \"Чеддер\" под сливочно-томатным соусом в мягкой круглой булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 33,
+    "fields": {
+      "category": 5,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/cd2e01c45c6a5cf31b090b9ef26050f3.PNG",
+      "title": "Мачо Триндвич",
+      "title_uz": "Macho Trindvich",
+      "title_ru": "Мачо Триндвич",
+      "price": 65000,
+      "description": "Двойная порция сочной говядины донер, тающий сыр, слайсы свежих томатов и фирменный соус в сырной тортилье",
+      "description_uz": "Ikki porsiya shirali mol go'shti doner, eriydigan pishloq, yangi pomidor tilimlari va pishloqli tortilyada firma sousi",
+      "description_ru": "Двойная порция сочной говядины донер, тающий сыр, слайсы свежих томатов и фирменный соус в сырной тортилье",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 34,
+    "fields": {
+      "category": 5,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fa79e6e87dcf14cd08c13434351ffd43.PNG",
+      "title": "Цезарь Ролл",
+      "title_uz": "Sezar Roll",
+      "title_ru": "Цезарь Ролл",
+      "price": 27000,
+      "description": "Цезарь Ролл – куриные стрипсы, хрустящий лист салата Айсберг, кусочки свежих помидоров и твердого сыра в нежной тортилье.Нежно и аппетитно!",
+      "description_uz": "Sezar Roll - tovuq stripslari, qarsildoq Ayberg salat bargi, yangi pomidor va qattiq pishloq bo'laklari mayin tortilyada. Mayin va ishtahani ochuvchi!",
+      "description_ru": "Цезарь Ролл – куриные стрипсы, хрустящий лист салата Айсберг, кусочки свежих помидоров и твердого сыра в нежной тортилье.Нежно и аппетитно!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 35,
+    "fields": {
+      "category": 5,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3bb24f6a373afb64f7cd1a98827fd717.PNG",
+      "title": "Донар Ролл",
+      "title_uz": "Donar Roll",
+      "title_ru": "Донар Ролл",
+      "price": 17000,
+      "description": "Донар Ролл — это нежная курица, завёрнутая в мягкую тортилью с чесночно-сливочным соусом и хрустящим картофелем фри. Лёгкий и доступный по цене выбор!",
+      "description_uz": "Donar Roll - bu mayin tovuq go'shti, sarimsoqli-qaymoqli sous va qarsildoq fri kartoshkasi bilan yumshoq tortilyaga o'ralgan. Yengil va arzon narxdagi tanlov!",
+      "description_ru": "Донар Ролл — это нежная курица, завёрнутая в мягкую тортилью с чесночно-сливочным соусом и хрустящим картофелем фри. Лёгкий и доступный по цене выбор!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 36,
+    "fields": {
+      "category": 5,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6933b90a242378cfa29699de5f3b1d78.PNG",
+      "title": "Триндвич с говядиной",
+      "title_uz": "Mol go'shtli Trindvich",
+      "title_ru": "Триндвич с говядиной",
+      "price": 42000,
+      "description": "Нежное мясо говядины гриль с сыром и помидорами под особым соусом в мягкой сырной тортилье!",
+      "description_uz": "Mayin mol go'shti grill, pishloq va pomidor bilan maxsus sous ostida yumshoq pishloqli tortilyada!",
+      "description_ru": "Нежное мясо говядины гриль с сыром и помидорами под особым соусом в мягкой сырной тортилье!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 37,
+    "fields": {
+      "category": 5,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/95483126f6dd829436ffed02bef89e66.PNG",
+      "title": "Триндвич с курицей",
+      "title_uz": "Tovuqli Trindvich",
+      "title_ru": "Триндвич с курицей",
+      "price": 38000,
+      "description": "Нежное куриное мясо-гриль с сыром и помидорами под ароматным соусом в мягкой тортилье!",
+      "description_uz": "Mayin tovuq go'shti grill, pishloq va pomidor bilan xushbo'y sous ostida yumshoq tortilyada!",
+      "description_ru": "Нежное куриное мясо-гриль с сыром и помидорами под ароматным соусом в мягкой тортилье!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 38,
+    "fields": {
+      "category": 5,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f428d571740c0f58f4bf88ca2b333ef7.PNG",
+      "title": "Гушт Ролл",
+      "title_uz": "Gusht Roll",
+      "title_ru": "Гушт Ролл",
+      "price": 39000,
+      "description": "Гушт Ролл - сочная котлета из 100% говядины, лист салата Айсберг, кусочки свежих помидоров в нежной тортилье. Сытно и невероятно вкусно!",
+      "description_uz": "Gusht Roll - 100% mol go'shtidan tayyorlangan shirali kotlet, Ayberg salat bargi, yangi pomidor bo'laklari mayin tortilyada. To'yimli va nihoyatda mazali!",
+      "description_ru": "Гушт Ролл - сочная котлета из 100% говядины, лист салата Айсберг, кусочки свежих помидоров в нежной тортилье. Сытно и невероятно вкусно!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 39,
+    "fields": {
+      "category": 6,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/88b94f96f270241940e7c7648ff4c8c9.PNG",
+      "title": "Донар с говядиной",
+      "title_uz": "Mol go'shtli Donar",
+      "title_ru": "Донар с говядиной",
+      "price": 60000,
+      "description": "Кусочки сочной говядины гриль, золотистая картошка \"фри\", рис, натуральный фирменный салат, специальный соус и ароматная лепешка на комбинированном блюде",
+      "description_uz": "Shirali mol go'shti grill bo'laklari, tilla rangli fri kartoshkasi, guruch, tabiiy firma salati, maxsus sous va xushbo'y non kombinatsiyalangan taomda",
+      "description_ru": "Кусочки сочной говядины гриль, золотистая картошка \"фри\", рис, натуральный фирменный салат, специальный соус и ароматная лепешка на комбинированном блюде",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 40,
+    "fields": {
+      "category": 6,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/4f09a07ef077b798f21c41c8212e959c.PNG",
+      "title": "Донар с курицей",
+      "title_uz": "Tovuqli Donar",
+      "title_ru": "Донар с курицей",
+      "price": 55000,
+      "description": "Кусочки куриного мяса гриль, золотистая картошка \"фри\", рис, натуральный фирменный салат, специальный соус и ароматной лепешкой на комбинированном блюде",
+      "description_uz": "Tovuq go'shti grill bo'laklari, tilla rangli fri kartoshkasi, guruch, tabiiy firma salati, maxsus sous va xushbo'y non kombinatsiyalangan taomda",
+      "description_ru": "Кусочки куриного мяса гриль, золотистая картошка \"фри\", рис, натуральный фирменный салат, специальный соус и ароматной лепешкой на комбинированном блюде",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 41,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/1e3dd34323860dc3a112f196c662ecea.PNG",
+      "title": "Хот-дог S",
+      "title_uz": "Hot-dog S",
+      "title_ru": "Хот-дог S",
+      "price": 13000,
+      "description": "Канадские сосиски из индейки, хрустящая луковая стружка-фри  и томатно-горчичный соус в классической длинной булочке",
+      "description_uz": "Kanada kurka sosiskalari, qarsildoq piyoz fri-chiplari va klassik uzun bulochkada pomidor-xantal sousi",
+      "description_ru": "Канадские сосиски из индейки, хрустящая луковая стружка-фри  и томатно-горчичный соус в классической длинной булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 42,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2dfd5c2a900e9b97aacc257b1c0470b1.PNG",
+      "title": "Хот-дог M",
+      "title_uz": "Hot-dog M",
+      "title_ru": "Хот-дог M",
+      "price": 20000,
+      "description": "Аппетитная сосиска, кусочки свежего помидора и хрустящего маринованного огурца, листья салата Айсберг под специальным сливочным соусом  в нежном кунжутном багете",
+      "description_uz": "Ishtahani ochuvchi sosiska, yangi pomidor va qarsildoq tuzlangan bodring bo'laklari, maxsus qaymoqli sous ostida Ayberg salat barglari mayin kunjutli bagetda",
+      "description_ru": "Аппетитная сосиска, кусочки свежего помидора и хрустящего маринованного огурца, листья салата Айсберг под специальным сливочным соусом  в нежном кунжутном багете",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 43,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3df627256f6c5ba30779e52e6ced39ff.PNG",
+      "title": "Дабл хот-дог",
+      "title_uz": "Dabl hot-dog",
+      "title_ru": "Дабл хот-дог",
+      "price": 28000,
+      "description": "Две аппетитных сосиски, кусочки свежего помидора и хрустящего маринованного огурца, листья салата Айсберг, ломтик сыра Чеддер под специальным сливочным  соусом  в нежном кунжутном багете",
+      "description_uz": "Ikkita ishtahani ochuvchi sosiska, yangi pomidor va qarsildoq tuzlangan bodring bo'laklari, Ayberg salat barglari, Cheddar pishlog'i tilimi, maxsus qaymoqli sous ostida mayin kunjutli bagetda",
+      "description_ru": "Две аппетитных сосиски, кусочки свежего помидора и хрустящего маринованного огурца, листья салата Айсберг, ломтик сыра Чеддер под специальным сливочным  соусом  в нежном кунжутном багете",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 44,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/8052a8cb394a7f0a564d6193c20de26e.PNG",
+      "title": "Саб с говядиной",
+      "title_uz": "Mol go'shtli Sab",
+      "title_ru": "Саб с говядиной",
+      "price": 26000,
+      "description": "Сочная говядина гриль, кольца свежего красного лука, соус \"барбекю\" с дымком в удлиненной пышной булочке",
+      "description_uz": "Shirali mol go'shti grill, yangi qizil piyoz halqalari, tutunli barbekyu sousi cho'zilgan yumshoq bulochkada",
+      "description_ru": "Сочная говядина гриль, кольца свежего красного лука, соус \"барбекю\" с дымком в удлиненной пышной булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 45,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/082a00de48c69ade78441d7515a09cd4.PNG",
+      "title": "Саб с курицей",
+      "title_uz": "Tovuqli Sab",
+      "title_ru": "Саб с курицей",
+      "price": 23000,
+      "description": "Куриное мясо гриль, кольца свежего красного лука, соус \"барбекю\" с дымком в удлиненной и пышной булочке",
+      "description_uz": "Tovuq go'shti grill, yangi qizil piyoz halqalari, tutunli barbekyu sousi cho'zilgan va yumshoq bulochkada",
+      "description_ru": "Куриное мясо гриль, кольца свежего красного лука, соус \"барбекю\" с дымком в удлиненной и пышной булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 46,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5b5f04b993d000e340a40bbf75b1a660.PNG",
+      "title": "Саб с говядиной и сыром",
+      "title_uz": "Mol go'shtli va pishloqli Sab",
+      "title_ru": "Саб с говядиной и сыром",
+      "price": 29000,
+      "description": "Сочная говядина гриль, кольца свежего красного лука, ломтик ароматного сыра \"Чеддер\" и соус \"барбекю\" с дымком в удлиненной пышной булочке",
+      "description_uz": "Shirali mol go'shti grill, yangi qizil piyoz halqalari, xushbo'y Cheddar pishlog'i tilimi va tutunli barbekyu sousi cho'zilgan yumshoq bulochkada",
+      "description_ru": "Сочная говядина гриль, кольца свежего красного лука, ломтик ароматного сыра \"Чеддер\" и соус \"барбекю\" с дымком в удлиненной пышной булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 47,
+    "fields": {
+      "category": 7,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/4c09dfb97fbbefda938cc81450f2aad5.PNG",
+      "title": "Саб с курицей и сыром",
+      "title_uz": "Tovuqli va pishloqli Sab",
+      "title_ru": "Саб с курицей и сыром",
+      "price": 26000,
+      "description": "куриное мясо гриль, кольца свежего красного лука, соус \"барбекю\" с дымком, ломтик ароматного сыра \"Чеддер\" в удлиненной и пышной булочке",
+      "description_uz": "Tovuq go'shti grill, yangi qizil piyoz halqalari, tutunli barbekyu sousi, xushbo'y Cheddar pishlog'i tilimi cho'zilgan va yumshoq bulochkada",
+      "description_ru": "куриное мясо гриль, кольца свежего красного лука, соус \"барбекю\" с дымком, ломтик ароматного сыра \"Чеддер\" в удлиненной и пышной булочке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 48,
+    "fields": {
+      "category": 8,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/539199e379aacfe878aeb3719bae9e56.PNG",
+      "title": "Картофель Фри S",
+      "title_uz": "Kartoshka Fri S",
+      "title_ru": "Картофель Фри S",
+      "price": 13000,
+      "description": "Мини порция вкусных, обжаренных в растительном фритюре и слегка посоленных палочек картофеля. Идеально - в паре с любимым вкусом соуса.",
+      "description_uz": "O'simlik yog'ida qovurilgan va ozgina tuzlangan mazali kartoshka tayoqchalarining mini porsiyasi. Sevimli sous bilan mukammal juftlik.",
+      "description_ru": "Мини порция вкусных, обжаренных в растительном фритюре и слегка посоленных палочек картофеля. Идеально - в паре с любимым вкусом соуса.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 49,
+    "fields": {
+      "category": 8,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fa2af9ebd7d4708ac21fe1679c7d6989.PNG",
+      "title": "Картофель фри M",
+      "title_uz": "Kartoshka Fri M",
+      "title_ru": "Картофель фри M",
+      "price": 20000,
+      "description": "Стандартная порция вкусных, обжаренных в растительном фритюре и слегка посоленных палочек картофеля. Идеально - в паре с любимым вкусом соуса.",
+      "description_uz": "O'simlik yog'ida qovurilgan va ozgina tuzlangan mazali kartoshka tayoqchalarining standart porsiyasi. Sevimli sous bilan mukammal juftlik.",
+      "description_ru": "Стандартная порция вкусных, обжаренных в растительном фритюре и слегка посоленных палочек картофеля. Идеально - в паре с любимым вкусом соуса.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 50,
+    "fields": {
+      "category": 8,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/0b82ec365ea96354f59e6df268c3ca93.PNG",
+      "title": "Картофель фри L",
+      "title_uz": "Kartoshka Fri L",
+      "title_ru": "Картофель фри L",
+      "price": 26000,
+      "description": "Большая порция вкусных, обжаренных в растительном фритюре и слегка посоленных палочек картофеля. Идеально - в паре с любимым вкусом соуса.",
+      "description_uz": "O'simlik yog'ida qovurilgan va ozgina tuzlangan mazali kartoshka tayoqchalarining katta porsiyasi. Sevimli sous bilan mukammal juftlik.",
+      "description_ru": "Большая порция вкусных, обжаренных в растительном фритюре и слегка посоленных палочек картофеля. Идеально - в паре с любимым вкусом соуса.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 51,
+    "fields": {
+      "category": 8,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/cf2e06a8c584fd2ac96d907b5fa5ae5a.PNG",
+      "title": "Картофель по-деревенски",
+      "title_uz": "Qishloqcha kartoshka",
+      "title_ru": "Картофель по-деревенски",
+      "price": 21000,
+      "description": "Аппетитные и вкусные крупные ломтики картошки, обжаренные в растительном фритюре с ароматными специями. Попробуйте с любимым соусом!",
+      "description_uz": "O'simlik yog'ida xushbo'y ziravorlar bilan qovurilgan mazali va ishtahani ochuvchi katta kartoshka bo'laklari. Sevimli sous bilan sinab ko'ring!",
+      "description_ru": "Аппетитные и вкусные крупные ломтики картошки, обжаренные в растительном фритюре с ароматными специями. Попробуйте с любимым соусом!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 52,
+    "fields": {
+      "category": 9,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/413edf556c36e2cd6d1b2c00054659d6.PNG",
+      "title": "Наггетсы, 4 шт",
+      "title_uz": "Naggetslar, 4 dona",
+      "title_ru": "Наггетсы, 4 шт",
+      "price": 13000,
+      "description": "Хрустящие кусочки куриного филе в аппетитной панировке. Порция - 4 шт.",
+      "description_uz": "Qarsildoq panirovkadagi tovuq filesining qarsildoq bo'laklari. Porsiya - 4 dona.",
+      "description_ru": "Хрустящие кусочки куриного филе в аппетитной панировке. Порция - 4 шт.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 53,
+    "fields": {
+      "category": 9,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f54d86c8763f0d544fecf6b1e99af37f.PNG",
+      "title": "Наггетсы, 8 шт",
+      "title_uz": "Naggetslar, 8 dona",
+      "title_ru": "Наггетсы, 8 шт",
+      "price": 24000,
+      "description": "Хрустящие кусочки куриного филе в аппетитной панировке. Порция - 8 шт.",
+      "description_uz": "Qarsildoq panirovkadagi tovuq filesining qarsildoq bo'laklari. Porsiya - 8 dona.",
+      "description_ru": "Хрустящие кусочки куриного филе в аппетитной панировке. Порция - 8 шт.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 54,
+    "fields": {
+      "category": 9,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f3e13363b9e1321e5561ff5b91bef1bf.PNG",
+      "title": "Стрипсы S",
+      "title_uz": "Strips S",
+      "title_ru": "Стрипсы S",
+      "price": 13000,
+      "description": "Сочная, нежная курица в хрустящей панировке",
+      "description_uz": "Shirali, mayin tovuq go'shti qarsildoq panirovkada",
+      "description_ru": "Сочная, нежная курица в хрустящей панировке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 55,
+    "fields": {
+      "category": 9,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3040f6b11386264cc638a6e4169e0f4c.PNG",
+      "title": "Стрипсы L",
+      "title_uz": "Strips L",
+      "title_ru": "Стрипсы L",
+      "price": 26000,
+      "description": "Сочная, нежная курица в хрустящей панировке",
+      "description_uz": "Shirali, mayin tovuq go'shti qarsildoq panirovkada",
+      "description_ru": "Сочная, нежная курица в хрустящей панировке",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 56,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2aba98ab3357b7abc7199448372beb4b.PNG",
+      "title": "Мачо Лаваш комбо",
+      "title_uz": "Macho Lavash kombo",
+      "title_ru": "Мачо Лаваш комбо",
+      "price": 94000,
+      "description": "Сочный Мачо Лаваш – лаваш с двойной порцией мяса. Хрустящий картофель фри L. Освежающий Pepsi 0,4.",
+      "description_uz": "Shirali Macho Lavash – ikki porsiya go'shtli lavash. Qarsildoq kartoshka fri L. Tetiklantiruvchi Pepsi 0,4.",
+      "description_ru": "Сочный Мачо Лаваш – лаваш с двойной порцией мяса. Хрустящий картофель фри L. Освежающий Pepsi 0,4.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 57,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/778baee50557b01ae3c0b944fc7a1374.PNG",
+      "title": "Мачо Шаурма комбо",
+      "title_uz": "Macho Shaurma kombo",
+      "title_ru": "Мачо Шаурма комбо",
+      "price": 91000,
+      "description": "Сочная Мачо Шаурма – шаурма с двойной порцией мяса. Хрустящий картофель фри L. Освежающий Pepsi 0,4 L.",
+      "description_uz": "Shirali Macho Shaurma – ikki porsiya go'shtli shaurma. Qarsildoq kartoshka fri L. Tetiklantiruvchi Pepsi 0,4 L.",
+      "description_ru": "Сочная Мачо Шаурма – шаурма с двойной порцией мяса. Хрустящий картофель фри L. Освежающий Pepsi 0,4 L.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 58,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/dfb739ee5868578266082e1b54c238b8.PNG",
+      "title": "Мачо Триндвич комбо",
+      "title_uz": "Macho Trindvich kombo",
+      "title_ru": "Мачо Триндвич комбо",
+      "price": 96000,
+      "description": "Сочный Мачо Триндвич – триндвич с двойной порцией мяса. Хрустящий картофель фри L. Освежающий Pepsi 0,4 L.",
+      "description_uz": "Shirali Macho Trindvich – ikki porsiya go'shtli trindvich. Qarsildoq kartoshka fri L. Tetiklantiruvchi Pepsi 0,4 L.",
+      "description_ru": "Сочный Мачо Триндвич – триндвич с двойной порцией мяса. Хрустящий картофель фри L. Освежающий Pepsi 0,4 L.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 59,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/14b0ca21d86d9e9d3e00919bdf308a05.PNG",
+      "title": "Снэк-бокс",
+      "title_uz": "Snak-boks",
+      "title_ru": "Снэк-бокс",
+      "price": 82000,
+      "description": "Золотистый картофель фри М, хрустящие стрипсы L, нежные наггетсы (6 шт) и ароматный картофель по-деревенски",
+      "description_uz": "Tilla kartoshka fri M, qarsildoq strips L, mayin naggetslar (6 dona) va xushbo'y qishloqcha kartoshka",
+      "description_ru": "Золотистый картофель фри М, хрустящие стрипсы L, нежные наггетсы (6 шт) и ароматный картофель по-деревенски",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 60,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f175f185330b8e791f711b060b5cd743.PNG",
+      "title": "Для троих 1",
+      "title_uz": "Uch kishilik 1",
+      "title_ru": "Для троих 1",
+      "price": 126000,
+      "description": "Сочный говяжий лаваш L - 3 шт и освежающий Pepsi (0,4 л) - 3 стакана",
+      "description_uz": "Shirali mol go'shtli lavash L - 3 dona va tetiklantiruvchi Pepsi (0,4 l) - 3 stakan",
+      "description_ru": "Сочный говяжий лаваш L - 3 шт и освежающий Pepsi (0,4 л) - 3 стакана",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 61,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/23ab10d5a678f21b0dbb90658a68eb09.PNG",
+      "title": "Для троих 2",
+      "title_uz": "Uch kishilik 2",
+      "title_ru": "Для троих 2",
+      "price": 119000,
+      "description": "Аппетитный куриный лаваш L - 3 шт и освежающий Pepsi (0,4 л) - 3 стакана",
+      "description_uz": "Ishtahani ochuvchi tovuqli lavash L - 3 dona va tetiklantiruvchi Pepsi (0,4 l) - 3 stakan",
+      "description_ru": "Аппетитный куриный лаваш L - 3 шт и освежающий Pepsi (0,4 л) - 3 стакана",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 62,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/c265813ca699487dbc1e3ff1c6c00c07.PNG",
+      "title": "Gap yo‘q Комбо 1",
+      "title_uz": "Gap yo‘q Kombo 1",
+      "title_ru": "Гап йок Комбо 1",
+      "price": 65000,
+      "description": "Большой лаваш с сочной говядиной 1 шт, сочные наггетсы 2 шт, mini картофель фри 1 шт, ароматный кетчуп 1 шт, освежающий Pepsi 1 стакан, 0,4 л. Сочетание, от которого невозможно отказаться.",
+      "description_uz": "Katta shirali mol go'shtli lavash 1 dona, shirali naggetslar 2 dona, mini kartoshka fri 1 dona, xushbo'y ketchup 1 dona, tetiklantiruvchi Pepsi 1 stakan, 0,4 l. Rad etib bo'lmaydigan uyg'unlik.",
+      "description_ru": "Большой лаваш с сочной говядиной 1 шт, сочные наггетсы 2 шт, mini картофель фри 1 шт, ароматный кетчуп 1 шт, освежающий Pepsi 1 стакан, 0,4 л. Сочетание, от которого невозможно отказаться.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 63,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/d206b789e20caa7b76bb2acad2a04029.PNG",
+      "title": "Gap yo‘q Комбо 2",
+      "title_uz": "Gap yo‘q Kombo 2",
+      "title_ru": "Гап йок Комбо 2",
+      "price": 59000,
+      "description": "Большой лаваш с ароматной курицей 1 шт, сочные наггетсы 2 шт, mini картофель фри 1 шт, ароматный кетчуп 1 шт, освежающий Pepsi 1 стакан, 0,4 л. Сочетание, от которого невозможно отказаться.",
+      "description_uz": "Katta xushbo'y tovuqli lavash 1 dona, shirali naggetslar 2 dona, mini kartoshka fri 1 dona, xushbo'y ketchup 1 dona, tetiklantiruvchi Pepsi 1 stakan, 0,4 l. Rad etib bo'lmaydigan uyg'unlik.",
+      "description_ru": "Большой лаваш с ароматной курицей 1 шт, сочные наггетсы 2 шт, mini картофель фри 1 шт, ароматный кетчуп 1 шт, освежающий Pepsi 1 стакан, 0,4 л. Сочетание, от которого невозможно отказаться.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 64,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3105bcf8d79bd2c3f2bf0358328e1ca7.PNG",
+      "title": "Gap yo‘q Комбо 3",
+      "title_uz": "Gap yo‘q Kombo 3",
+      "title_ru": "Гап йок Комбо 3",
+      "price": 61000,
+      "description": "Большая шаурма с аппетитной говядиной и свежими овощами 1 шт, сочные наггетсы 2 шт, золотистый mini картофель фри 1 шт, кетчуп 1 шт и Pepsi 1 стакан, 0,4 л.",
+      "description_uz": "Katta ishtahani ochuvchi mol go'shtli va yangi sabzavotli shaurma 1 dona, shirali naggetslar 2 dona, tilla mini kartoshka fri 1 dona, ketchup 1 dona va Pepsi 1 stakan, 0,4 l.",
+      "description_ru": "Большая шаурма с аппетитной говядиной и свежими овощами 1 шт, сочные наггетсы 2 шт, золотистый mini картофель фри 1 шт, кетчуп 1 шт и Pepsi 1 стакан, 0,4 л.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 65,
+    "fields": {
+      "category": 10,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/b1b29649371d6935310604d33dcdcdb2.PNG",
+      "title": "Gap yo‘q Комбо 4",
+      "title_uz": "Gap yo‘q Kombo 4",
+      "title_ru": "Гап йок Комбо 4",
+      "price": 57000,
+      "description": "Большая шаурма с аппетитной курицей и свежими овощами 1 шт, сочные наггетсы 2 шт, золотистый mini картофель фри 1 шт, кетчуп 1 шт и Pepsi 1 стакан, 0,4 л.",
+      "description_uz": "Katta ishtahani ochuvchi tovuqli va yangi sabzavotli shaurma 1 dona, shirali naggetslar 2 dona, tilla mini kartoshka fri 1 dona, ketchup 1 dona va Pepsi 1 stakan, 0,4 l.",
+      "description_ru": "Большая шаурма с аппетитной курицей и свежими овощами 1 шт, сочные наггетсы 2 шт, золотистый mini картофель фри 1 шт, кетчуп 1 шт и Pepsi 1 стакан, 0,4 л.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 66,
+    "fields": {
+      "category": 11,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6efe80ecc4ef12fc9d0a9d2e2825360c.PNG",
+      "title": "Лаваш-паваш Сет 1",
+      "title_uz": "Lavash-pavash Set 1",
+      "title_ru": "Лаваш-паваш Сет 1",
+      "price": 89000,
+      "description": "Сочный mini лаваш с говядиной 2 шт, mini картофель фри 2 шт, ароматный кетчуп 2 шт и Pepsi 2 стакана, 0,3 л. Выгодное и сытное комбо для двоих!",
+      "description_uz": "Shirali mini mol go'shtli lavash 2 dona, mini kartoshka fri 2 dona, xushbo'y ketchup 2 dona va Pepsi 2 stakan, 0,3 l. Ikki kishilik foydali va to'yimli kombo!",
+      "description_ru": "Сочный mini лаваш с говядиной 2 шт, mini картофель фри 2 шт, ароматный кетчуп 2 шт и Pepsi 2 стакана, 0,3 л. Выгодное и сытное комбо для двоих!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 67,
+    "fields": {
+      "category": 11,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/d51e4c6b6ffcf2d15eabcd344e46770c.PNG",
+      "title": "Лаваш-паваш Сет 2",
+      "title_uz": "Lavash-pavash Set 2",
+      "title_ru": "Лаваш-паваш Сет 2",
+      "price": 76000,
+      "description": "Сочный mini лаваш с курицей 2 шт, mini картофель фри 2 шт, ароматный кетчуп 2 шт и Pepsi 2 стакана, 0,3 л. Выгодное и сытное комбо для двоих!",
+      "description_uz": "Shirali mini tovuqli lavash 2 dona, mini kartoshka fri 2 dona, xushbo'y ketchup 2 dona va Pepsi 2 stakan, 0,3 l. Ikki kishilik foydali va to'yimli kombo!",
+      "description_ru": "Сочный mini лаваш с курицей 2 шт, mini картофель фри 2 шт, ароматный кетчуп 2 шт и Pepsi 2 стакана, 0,3 л. Выгодное и сытное комбо для двоих!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 68,
+    "fields": {
+      "category": 11,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fd411c06f991ef7074a6e5c5859af9fb.PNG",
+      "title": "Шаурма-паурма Сет 1",
+      "title_uz": "Shaurma-paurma Set 1",
+      "title_ru": "Шаурма-паурма Сет 1",
+      "price": 84000,
+      "description": "Нежная mini шаурма с сочной говядиной 2 шт, mini картофель фри 2 шт, любимый кетчуп 2 шт, Pepsi 2 стакана, 0,3 л. Идеальный перекус для двоих",
+      "description_uz": "Mayin mini shirali mol go'shtli shaurma 2 dona, mini kartoshka fri 2 dona, sevimli ketchup 2 dona, Pepsi 2 stakan, 0,3 l. Ikki kishilik ajoyib gazak",
+      "description_ru": "Нежная mini шаурма с сочной говядиной 2 шт, mini картофель фри 2 шт, любимый кетчуп 2 шт, Pepsi 2 стакана, 0,3 л. Идеальный перекус для двоих",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 69,
+    "fields": {
+      "category": 11,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/65d22d091a401a6c2a5a023e1806f86c.PNG",
+      "title": "Шаурма-паурма Сет 2",
+      "title_uz": "Shaurma-paurma Set 2",
+      "title_ru": "Шаурма-паурма Сет 2",
+      "price": 79000,
+      "description": "Нежная mini шаурма с аппетитной курицей 2 шт, mini картофель фри 2 шт, любимый кетчуп 2 шт, Pepsi 2 стакана, 0,3 л. Идеальный перекус для двоих",
+      "description_uz": "Mayin mini ishtahani ochuvchi tovuqli shaurma 2 dona, mini kartoshka fri 2 dona, sevimli ketchup 2 dona, Pepsi 2 stakan, 0,3 l. Ikki kishilik ajoyib gazak",
+      "description_ru": "Нежная mini шаурма с аппетитной курицей 2 шт, mini картофель фри 2 шт, любимый кетчуп 2 шт, Pepsi 2 стакана, 0,3 л. Идеальный перекус для двоих",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 70,
+    "fields": {
+      "category": 12,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/ac425eb3dc73839c81ec75f46f7aa5c9.PNG",
+      "title": "Kinder Box 1",
+      "title_uz": "Kinder Box 1",
+      "title_ru": "Kinder Box 1",
+      "price": 64000,
+      "description": "Сочный куриный лаваш S, хрустящий картофель фри S и любимый Kinder Joy.",
+      "description_uz": "Shirali tovuqli lavash S, qarsildoq kartoshka fri S va sevimli Kinder Joy.",
+      "description_ru": "Сочный куриный лаваш S, хрустящий картофель фри S и любимый Kinder Joy.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 71,
+    "fields": {
+      "category": 12,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/81dfca117ec52dfeb7c0a69fd15c3643.PNG",
+      "title": "Игрушка Машинка",
+      "title_uz": "O'yinchoq Mashina",
+      "title_ru": "Игрушка Машинка",
+      "price": 10000,
+      "description": "Машинка",
+      "description_uz": "Mashina o'yinchoq",
+      "description_ru": "Машинка",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 72,
+    "fields": {
+      "category": 12,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3c828d080c05ac008038a4787ddbb9b9.PNG",
+      "title": "Игрушка кукла",
+      "title_uz": "O'yinchoq qo'g'irchoq",
+      "title_ru": "Игрушка кукла",
+      "price": 10000,
+      "description": "Кукла",
+      "description_uz": "Qo'g'irchoq o'yinchoq",
+      "description_ru": "Кукла",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 73,
+    "fields": {
+      "category": 13,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/b26651e5634b923369bbebd0fe1b6f1c.PNG",
+      "title": "Салат Цезарь",
+      "title_uz": "Sezar salati",
+      "title_ru": "Салат Цезарь",
+      "price": 33000,
+      "description": "Кусочки обжаренной в кляре курицы, свежие помидоры, сыр, хрустящие чесночные сухарики, листья салата Айсберг под фирменным соусом «Цезарь»",
+      "description_uz": "Qovurilgan tovuq bo'laklari, yangi pomidorlar, pishloq, qarsildoq sarimsoqli krutonlar, Ayberg salat barglari firmaning Sezar sousi ostida",
+      "description_ru": "Кусочки обжаренной в кляре курицы, свежие помидоры, сыр, хрустящие чесночные сухарики, листья салата Айсберг под фирменным соусом «Цезарь»",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 74,
+    "fields": {
+      "category": 13,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/a60768755eaeaf6105f14105da17fe2a.PNG",
+      "title": "Салат",
+      "title_uz": "Salat",
+      "title_ru": "Салат",
+      "price": 10000,
+      "description": "Свежие огурцы и красная капуста с добавлением зелени \"кашнич\", приправленные лимонным соком и восточными специями.",
+      "description_uz": "Yangi bodring va qizil karam, kashnich ko'katlari qo'shilgan, limon sharbati va sharq ziravorlari bilan ta'mlangan.",
+      "description_ru": "Свежие огурцы и красная капуста с добавлением зелени \"кашнич\", приправленные лимонным соком и восточными специями.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 75,
+    "fields": {
+      "category": 13,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/91d6e2787a65b6acc7e68aae9263f85f.PNG",
+      "title": "Салат Греческий",
+      "title_uz": "Yunon salati",
+      "title_ru": "Салат Греческий",
+      "price": 32000,
+      "description": "Свежие томаты и огурцы, терпкие маслины, нежный сыр “Фетакса” с пряным масляным соусом. Любимая классика в новом исполнении!",
+      "description_uz": "Yangi pomidor va bodring, achchiq zaytun, mayin Fetaksa pishlog'i ziravorli yog'li sous bilan. Sevimli klassika yangi ko'rinishda!",
+      "description_ru": "Свежие томаты и огурцы, терпкие маслины, нежный сыр “Фетакса” с пряным масляным соусом. Любимая классика в новом исполнении!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 76,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6878a4fcd2772bef08e312e974cd0667.PNG",
+      "title": "Халапеньо",
+      "title_uz": "Xalapenyo",
+      "title_ru": "Халапеньо",
+      "price": 4000,
+      "description": "Пикантный и ароматный маринованный халапеньо - это удобное решение для любителей остроты!",
+      "description_uz": "Achchiq va xushbo'y tuzlangan xalapenyo - achchiqni yaxshi ko'radiganlar uchun qulay yechim!",
+      "description_ru": "Пикантный и ароматный маринованный халапеньо - это удобное решение для любителей остроты!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 77,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/21e785d2bb5dad67da1502036f9a0f38.PNG",
+      "title": "Кетчуп",
+      "title_uz": "Ketchup",
+      "title_ru": "Кетчуп",
+      "price": 4000,
+      "description": "Порция кетчупа из натуральных свежих томатов со специями. Вес - 25 гр.",
+      "description_uz": "Tabiiy yangi pomidor va ziravorlardan tayyorlangan ketchup porsiyasi. Og'irligi - 25 gr.",
+      "description_ru": "Порция кетчупа из натуральных свежих томатов со специями. Вес - 25 гр.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 78,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/793c851a354f93fb18195f8ff4ae26dd.PNG",
+      "title": "Майонез",
+      "title_uz": "Mayonez",
+      "title_ru": "Майонез",
+      "price": 4000,
+      "description": "Порция классического майонеза. Вес - 25 гр.",
+      "description_uz": "Klassik mayonez porsiyasi. Og'irligi - 25 gr.",
+      "description_ru": "Порция классического майонеза. Вес - 25 гр.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 79,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f52a85385e068c32aea783dbfe929c94.PNG",
+      "title": "Сырный соус",
+      "title_uz": "Pishloqli sous",
+      "title_ru": "Сырный соус",
+      "price": 4000,
+      "description": "Порция густого и аппетитного сырного соуса . Вес - 25 гр.",
+      "description_uz": "Qalin va ishtahani ochuvchi pishloqli sous porsiyasi. Og'irligi - 25 gr.",
+      "description_ru": "Порция густого и аппетитного сырного соуса . Вес - 25 гр.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 80,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5d73b93d5dab66543186ad591926bf99.PNG",
+      "title": "Чесночный соус",
+      "title_uz": "Sarimsoqli sous",
+      "title_ru": "Чесночный соус",
+      "price": 4000,
+      "description": "Порция ароматного чесночного соуса. Вес - 25 гр",
+      "description_uz": "Xushbo'y sarimsoqli sous porsiyasi. Og'irligi - 25 gr.",
+      "description_ru": "Порция ароматного чесночного соуса. Вес - 25 гр",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 81,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/7f58f2ba11ec75567aa1b5896936136b.PNG",
+      "title": "Соус Цезарь",
+      "title_uz": "Sezar sousi",
+      "title_ru": "Соус Цезарь",
+      "price": 4000,
+      "description": "Соус для салата Цезарь",
+      "description_uz": "Sezar salati uchun sous",
+      "description_ru": "Соус для салата Цезарь",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 82,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/44b58ea23b1c1ff38a95f4e3ea03530c.PNG",
+      "title": "Соус Греческий",
+      "title_uz": "Yunon sousi",
+      "title_ru": "Соус Греческий",
+      "price": 4000,
+      "description": "Соус для салата Греческий",
+      "description_uz": "Yunon salati uchun sous",
+      "description_ru": "Соус для салата Греческий",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 83,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/a7088ccc3d998d84512554c3f03c3f98.PNG",
+      "title": "Чили соус",
+      "title_uz": "Chili sous",
+      "title_ru": "Чили соус",
+      "price": 4000,
+      "description": "Порция пикантно-острого соуса \"чили\" . Вес - 25 гр.",
+      "description_uz": "Achchiq-o'tkir chili sous porsiyasi. Og'irligi - 25 gr.",
+      "description_ru": "Порция пикантно-острого соуса \"чили\" . Вес - 25 гр.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 84,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/426731a39b80ef89afcee9e11e222ee5.PNG",
+      "title": "Барбекю соус",
+      "title_uz": "Barbekyu sous",
+      "title_ru": "Барбекю соус",
+      "price": 4000,
+      "description": "Порция карамелизированного томатного соуса с дымным вкусом. Вес - 25 гр.",
+      "description_uz": "Tutunli ta'mga ega karamellashgan pomidor sousi porsiyasi. Og'irligi - 25 gr.",
+      "description_ru": "Порция карамелизированного томатного соуса с дымным вкусом. Вес - 25 гр.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 85,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fe38f11b13f685b479be9afd47d8fb7c.PNG",
+      "title": "Хлеб",
+      "title_uz": "Non",
+      "title_ru": "Хлеб",
+      "price": 4000,
+      "description": "Ароматный свежий хлеб",
+      "description_uz": "Xushbo'y yangi non",
+      "description_ru": "Ароматный свежий хлеб",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 86,
+    "fields": {
+      "category": 14,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/42922887090e55d9bce6ff43fcbee7c4.PNG",
+      "title": "Рис",
+      "title_uz": "Guruch",
+      "title_ru": "Рис",
+      "price": 9000,
+      "description": "Вкусный и полезный гарнир из белого риса и арпы",
+      "description_uz": "Mazali va foydali oq guruch va arpadan tayyorlangan garnir",
+      "description_ru": "Вкусный и полезный гарнир из белого риса и арпы",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 87,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6ff4d85931d5cf451e6c84c2d7a26fc5.PNG",
+      "title": "Манго-Маракуйя",
+      "title_uz": "Mango-Marakuyya",
+      "title_ru": "Манго-Маракуйя",
+      "price": 18000,
+      "description": "Сладкий манго и яркая маракуйя - взрыв тропической свежести в каждом глотке.",
+      "description_uz": "Shirin mango va yorqin marakuyya - har bir qultumda tropik tazelik portlashi.",
+      "description_ru": "Сладкий манго и яркая маракуйя - взрыв тропической свежести в каждом глотке.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 88,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/0b86054df4c1a7c8e055c744c4e14d7c.PNG",
+      "title": "Малина-Персик",
+      "title_uz": "Malina-Shaftoli",
+      "title_ru": "Малина-Персик",
+      "price": 18000,
+      "description": "Нежная малина и сладкий персик - сочный вкус лета в одном стакане.",
+      "description_uz": "Mayin malina va shirin shaftoli - bir stakanda yozning shirali ta'mi.",
+      "description_ru": "Нежная малина и сладкий персик - сочный вкус лета в одном стакане.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 89,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/9a5396f4b53b2b5d5d016dc248d2ff36.PNG",
+      "title": "Огурец-Лайм",
+      "title_uz": "Bodring-Laym",
+      "title_ru": "Огурец-Лайм",
+      "price": 18000,
+      "description": "Сочный огурец и освежающий лайм   - идеальная гармония бодрости и свежести",
+      "description_uz": "Shirali bodring va tetiklantiruvchi laym - tetiklik va tazelikning mukammal uyg'unligi",
+      "description_ru": "Сочный огурец и освежающий лайм   - идеальная гармония бодрости и свежести",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 90,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/d05a8f0e09f9e6f5eb07af6f241ab423.PNG",
+      "title": "Пепси, бутылка 1,5л",
+      "title_uz": "Pepsi, shisha 1,5 l",
+      "title_ru": "Пепси, бутылка 1,5л",
+      "price": 20000,
+      "description": "Pepsi в ПЭТ-бутылке 1,5 литра",
+      "description_uz": "PET shishadagi Pepsi 1,5 litr",
+      "description_ru": "Pepsi в ПЭТ-бутылке 1,5 литра",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 91,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/6518b2b1af7440abc1b7d3925df626fa.PNG",
+      "title": "Пепси, бутылка 0,5 л",
+      "title_uz": "Pepsi, shisha 0,5 l",
+      "title_ru": "Пепси, бутылка 0,5 л",
+      "price": 12000,
+      "description": "Pepsi в ПЭТ-бутылке 0,5 литра",
+      "description_uz": "PET shishadagi Pepsi 0,5 litr",
+      "description_ru": "Pepsi в ПЭТ-бутылке 0,5 литра",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 92,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f4689693c6581f5f5f4384fe22364a34.PNG",
+      "title": "Вода, бутылка без газа 0,5 л",
+      "title_uz": "Suv, gazsiz shisha 0,5 l",
+      "title_ru": "Вода, бутылка без газа 0,5 л",
+      "price": 6000,
+      "description": "Негазированная очищенная питьевая вода, 0,5 л \"Chortoq\"",
+      "description_uz": "Gazsiz tozalangan ichimlik suvi, 0,5 l \"Chortoq\"",
+      "description_ru": "Негазированная очищенная питьевая вода, 0,5 л \"Chortoq\"",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 93,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/668c97faeea53d2d2c8d3021fd378488.PNG",
+      "title": "Мохито",
+      "title_uz": "Moxito",
+      "title_ru": "Мохито",
+      "price": 18000,
+      "description": "Мохито – охлаждающий лимонад с соком ароматного лайма, холодной газированной водой и дольками свежего лимона. Цитрусовая формула свежести для жаркого дня!",
+      "description_uz": "Moxito – xushbo'y laym sharbati, sovuq gazlangan suv va yangi limon bo'laklari bilan sovituvchi limonad. Issiq kun uchun sitrusli tazelik formulasi!",
+      "description_ru": "Мохито – охлаждающий лимонад с соком ароматного лайма, холодной газированной водой и дольками свежего лимона. Цитрусовая формула свежести для жаркого дня!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 94,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/c2ce3577ff76bc6d1c56922a5f93ade5.PNG",
+      "title": "Клубничный Мохито",
+      "title_uz": "Qulupnayli Moxito",
+      "title_ru": "Клубничный Мохито",
+      "price": 18000,
+      "description": "Вкус клубники в сочетании с освежающими нотами лайма и мяты создает идеальный летний напиток.Газированная вода придает легкость и прохладу в каждом глотке.",
+      "description_uz": "Qulupnay ta'mi laym va yalpizning tetiklantiruvchi notalari bilan birlashib, ideal yozgi ichimlikni yaratadi. Gazlangan suv har bir qultumda yengillik va salqinlik beradi.",
+      "description_ru": "Вкус клубники в сочетании с освежающими нотами лайма и мяты создает идеальный летний напиток.Газированная вода придает легкость и прохладу в каждом глотке.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 95,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3c63a6780855d014d5d963de16faa58e.PNG",
+      "title": "Пепси, стакан 0,4л",
+      "title_uz": "Pepsi, stakan 0,4 l",
+      "title_ru": "Пепси, стакан 0,4л",
+      "price": 10000,
+      "description": "Разливной Pepsi в фирменном бумажном стакане",
+      "description_uz": "Firma qog'oz stakanidagi quyma Pepsi",
+      "description_ru": "Разливной Pepsi в фирменном бумажном стакане",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 96,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/528120931f4d57f62c9781ae32af13fb.PNG",
+      "title": "Пепси Zero, стакан 0,4л",
+      "title_uz": "Pepsi Zero, stakan 0,4 l",
+      "title_ru": "Пепси Zero, стакан 0,4л",
+      "price": 10000,
+      "description": "Разливной Pepsi в фирменном бумажном стакане",
+      "description_uz": "Firma qog'oz stakanidagi quyma Pepsi",
+      "description_ru": "Разливной Pepsi в фирменном бумажном стакане",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 97,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/3e73485e172e82cd248e9f9db6602b31.PNG",
+      "title": "Миринда, стакан 0,4л",
+      "title_uz": "Mirinda, stakan 0,4 l",
+      "title_ru": "Миринда, стакан 0,4л",
+      "price": 10000,
+      "description": "Миринда, стакан 0,4л",
+      "description_uz": "Mirinda, stakan 0,4 l",
+      "description_ru": "Миринда, стакан 0,4л",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 98,
+    "fields": {
+      "category": 15,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fd99cd64afd285e75837e053e90204aa.PNG",
+      "title": "7up разлив",
+      "title_uz": "7up quyma",
+      "title_ru": "7up разлив",
+      "price": 10000,
+      "description": "Разливной 7up в фирменном бумажном стакане 0,4 л",
+      "description_uz": "Firma qog'oz stakanidagi quyma 7up 0,4 l",
+      "description_ru": "Разливной 7up в фирменном бумажном стакане 0,4 л",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 99,
+    "fields": {
+      "category": 16,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/733a635f9f79c0f2425c798e12e2278e.PNG",
+      "title": "Детский сок, яблочный, 0,2 л",
+      "title_uz": "Bolalar sharbati, olma, 0,2 l",
+      "title_ru": "Детский сок, яблочный, 0,2 л",
+      "price": 5000,
+      "description": "Детский сок Dena, 0,2л яблоко",
+      "description_uz": "Dena bolalar sharbati, 0,2 l olma",
+      "description_ru": "Детский сок Dena, 0,2л яблоко",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 100,
+    "fields": {
+      "category": 16,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/626388e6354abdd9dce73efef50e6d84.PNG",
+      "title": "Детский сок, мультифрукт, 0,2 л",
+      "title_uz": "Bolalar sharbati, multifrukt, 0,2 l",
+      "title_ru": "Детский сок, мультифрукт, 0,2 л",
+      "price": 5000,
+      "description": "Детский сок, 0,2л.,мультифрукт",
+      "description_uz": "Bolalar sharbati, 0,2 l, multifrukt",
+      "description_ru": "Детский сок, 0,2л.,мультифрукт",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 101,
+    "fields": {
+      "category": 16,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/615b6c4578ad9c045d930a8bfda68ff6.PNG",
+      "title": "Сок вишневый, 1 литр",
+      "title_uz": "Olcha sharbati, 1 litr",
+      "title_ru": "Сок вишневый, 1 литр",
+      "price": 22000,
+      "description": "Вишневый сок, 1 литр",
+      "description_uz": "Olcha sharbati, 1 litr",
+      "description_ru": "Вишневый сок, 1 литр",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 102,
+    "fields": {
+      "category": 16,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/bb08f5905a5557593b9e973cb967e989.PNG",
+      "title": "Сок яблочный, 1 литр",
+      "title_uz": "Olma sharbati, 1 litr",
+      "title_ru": "Сок яблочный, 1 литр",
+      "price": 22000,
+      "description": "Сок Блисс, 1 литр",
+      "description_uz": "Bliss sharbati, 1 litr",
+      "description_ru": "Сок Блисс, 1 литр",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 103,
+    "fields": {
+      "category": 17,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/c9373499974af48d853abf735ba5d942.PNG",
+      "title": "Чай черный",
+      "title_uz": "Qora choy",
+      "title_ru": "Чай черный",
+      "price": 5000,
+      "description": "300мл.Черный цейлонский крупнолистовой чай",
+      "description_uz": "300 ml. Qora Seylon yirik bargli choy",
+      "description_ru": "300мл.Черный цейлонский крупнолистовой чай",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 104,
+    "fields": {
+      "category": 17,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/d4c32fe963255e0f269f46fdcebbed0a.PNG",
+      "title": "Чай зеленый",
+      "title_uz": "Yashil choy",
+      "title_ru": "Чай зеленый",
+      "price": 5000,
+      "description": "300мл.Зеленый цейлонский крупнолистовой чай",
+      "description_uz": "300 ml. Yashil Seylon yirik bargli choy",
+      "description_ru": "300мл.Зеленый цейлонский крупнолистовой чай",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 105,
+    "fields": {
+      "category": 17,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fecf75a9c0d1c9df783f2b5a327d983d.PNG",
+      "title": "Чай чёрный с лимоном",
+      "title_uz": "Qora choy limonli",
+      "title_ru": "Чай чёрный с лимоном",
+      "price": 7000,
+      "description": "300мл.Черный цейлонский крупнолистовой чай со свежим лимоном,",
+      "description_uz": "300 ml. Qora Seylon yirik bargli choy yangi limon bilan",
+      "description_ru": "300мл.Черный цейлонский крупнолистовой чай со свежим лимоном,",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 106,
+    "fields": {
+      "category": 17,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5ec991aa1344349bdd774eec51ab280b.PNG",
+      "title": "Чай зелёный с лимоном",
+      "title_uz": "Yashil choy limonli",
+      "title_ru": "Чай зелёный с лимоном",
+      "price": 7000,
+      "description": "300мл.Зеленый цейлонский крупнолистовой чай со свежим лимоном",
+      "description_uz": "300 ml. Yashil Seylon yirik bargli choy yangi limon bilan",
+      "description_ru": "300мл.Зеленый цейлонский крупнолистовой чай со свежим лимоном",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 107,
+    "fields": {
+      "category": 18,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/e0d9bcb34e33c27e6a460a638e64ff35.PNG",
+      "title": "Американо",
+      "title_uz": "Amerikano",
+      "title_ru": "Американо",
+      "price": 14000,
+      "description": "200мл.Классический зерновой кофе на основе Эспрессо с добавлением воды",
+      "description_uz": "200 ml. Espresso asosidagi klassik donli qahva suv qo'shilgan",
+      "description_ru": "200мл.Классический зерновой кофе на основе Эспрессо с добавлением воды",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 108,
+    "fields": {
+      "category": 18,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/ca3bf212d4c6a7efe5d8c3e655ac111c.PNG",
+      "title": "Латте",
+      "title_uz": "Latte",
+      "title_ru": "Латте",
+      "price": 17000,
+      "description": "300мл.Натуральный зерновой кофе на основе кофе эспрессо. Готовится при помощи вспененного молока и состоит из трех слоев: молока, кофе и молочной пенки",
+      "description_uz": "300 ml. Espresso asosidagi tabiiy donli qahva. Ko'pirtirilgan sut yordamida tayyorlanadi va uch qatlamdan iborat: sut, qahva va sut ko'pigi",
+      "description_ru": "300мл.Натуральный зерновой кофе на основе кофе эспрессо. Готовится при помощи вспененного молока и состоит из трех слоев: молока, кофе и молочной пенки",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 109,
+    "fields": {
+      "category": 18,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/2a4a8610f61a63a07beca0f7c8926498.PNG",
+      "title": "Капучино",
+      "title_uz": "Kapuchino",
+      "title_ru": "Капучино",
+      "price": 17000,
+      "description": "300мл.Натуральный зерновой кофе со взбитым молоком на основе эспрессо. В нём сохраняется баланс: чувствуется вкус эспрессо, но он не преобладает над вкусом молока",
+      "description_uz": "300 ml. Espresso asosidagi ko'pirtirilgan sutli tabiiy donli qahva. Unda muvozanat saqlanadi: espresso ta'mi seziladi, lekin sut ta'midan ustun emas",
+      "description_ru": "300мл.Натуральный зерновой кофе со взбитым молоком на основе эспрессо. В нём сохраняется баланс: чувствуется вкус эспрессо, но он не преобладает над вкусом молока",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 110,
+    "fields": {
+      "category": 19,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5795d70d9a6b7790adff3a681c795bd0.PNG",
+      "title": "Чоко",
+      "title_uz": "Choko",
+      "title_ru": "Чоко",
+      "price": 21000,
+      "description": "Невероятно вкусное сочетание горячего мягкого пирожного с шоколадной начинкой и охлаждающего сливочного мороженого!",
+      "description_uz": "Shokoladli ichimlik bilan issiq yumshoq pishiriq va sovutuvchi qaymoqli muzqaymoqning ajoyib mazali uyg'unligi!",
+      "description_ru": "Невероятно вкусное сочетание горячего мягкого пирожного с шоколадной начинкой и охлаждающего сливочного мороженого!",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 111,
+    "fields": {
+      "category": 19,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/34f191b3763c07c3b403a11cdc67e4d3.PNG",
+      "title": "Чизкейк",
+      "title_uz": "Chizkeyk",
+      "title_ru": "Чизкейк",
+      "price": 21000,
+      "description": "Ванильный бисквит с сырно-сливочным кремом",
+      "description_uz": "Vanilli biskvit pishloq-qaymoqli krem bilan",
+      "description_ru": "Ванильный бисквит с сырно-сливочным кремом",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 112,
+    "fields": {
+      "category": 19,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/25e2bb591bb9577b576d0b1c60f5f1bf.PNG",
+      "title": "Медовик",
+      "title_uz": "Asalli tort",
+      "title_ru": "Медовик",
+      "price": 21000,
+      "description": "Медовый мягкий бисквит со сметанным кремом",
+      "description_uz": "Asalli yumshoq biskvit smetanali krem bilan",
+      "description_ru": "Медовый мягкий бисквит со сметанным кремом",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 113,
+    "fields": {
+      "category": 19,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/eb303df0d800ea1549bdbd8bb30641c6.PNG",
+      "title": "Печенье",
+      "title_uz": "Pechenye",
+      "title_ru": "Печенье",
+      "price": 8000,
+      "description": "Знаменитое Американское печенье — то, что нужно после вкусной трапезы. В одной упаковке — два печенья с разными вкусами. Двойное удовольствие для тех, кто любит разнообразие.",
+      "description_uz": "Mashhur Amerika pechenyesi - mazali taomdan keyin kerak bo'lgan narsa. Bitta paketda - ikki xil ta'mdagi pechenye. Rang-baranglikni yaxshi ko'radiganlar uchun ikki baravar zavq.",
+      "description_ru": "Знаменитое Американское печенье — то, что нужно после вкусной трапезы. В одной упаковке — два печенья с разными вкусами. Двойное удовольствие для тех, кто любит разнообразие.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 114,
+    "fields": {
+      "category": 1,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/a0da2bfe94adb03929d698cf6bf15230.PNG",
+      "title": "Лаваш с курицей M комбо, купон",
+      "title_uz": "Tovuqli lavash M kombo, kupon",
+      "title_ru": "Лаваш с курицей M комбо, купон",
+      "price": 36000,
+      "description": "Лаваш куриный М + фри S + Pepsi 0.3 л",
+      "description_uz": "Tovuqli lavash M + fri S + Pepsi 0.3 l",
+      "description_ru": "Лаваш куриный М + фри S + Pepsi 0.3 л",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 115,
+    "fields": {
+      "category": 1,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/338db39fe5016f61b7d27215e3412360.PNG",
+      "title": "2+1 Лаваш с говядиной М",
+      "title_uz": "2+1 Mol go'shtli lavash M",
+      "title_ru": "2+1 Лаваш с говядиной М",
+      "price": 74000,
+      "description": "2 лаваша М с сочной говядиной + 1 лаваш М с сочной говядиной в подарок.",
+      "description_uz": "2 dona shirali mol go'shtli lavash M + 1 dona shirali mol go'shtli lavash M sovg'a.",
+      "description_ru": "2 лаваша М с сочной говядиной + 1 лаваш М с сочной говядиной в подарок.",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 116,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/5a32a682e6503452c9fa57317ae0666e.PNG",
+      "title": "Комбо Хуснорика",
+      "title_uz": "Kombo Xusnorika",
+      "title_ru": "Комбо Хуснорика",
+      "price": 62000,
+      "description": "Сочный лаваш с курицей L, хрустящий картофель фри S и освежающий клубничный мохито",
+      "description_uz": "Shirali tovuqli lavash L, qarsildoq kartoshka fri S va tetiklantiruvchi qulupnayli moxito",
+      "description_ru": "Сочный лаваш с курицей L, хрустящий картофель фри S и освежающий клубничный мохито",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 117,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/f25f2ea57c839a4f5c4ad0be61606172.PNG",
+      "title": "Комбо Тахир Садыкова 1",
+      "title_uz": "Kombo Tohir Sodiqova 1",
+      "title_ru": "Комбо Тахир Садыкова 1",
+      "price": 83000,
+      "description": "Аппетитный Мачо Лаваш, хрустящий картофель фри S и освежающий Pepsi (0,3 л)",
+      "description_uz": "Ishtahani ochuvchi Macho Lavash, qarsildoq kartoshka fri S va tetiklantiruvchi Pepsi (0,3 l)",
+      "description_ru": "Аппетитный Мачо Лаваш, хрустящий картофель фри S и освежающий Pepsi (0,3 л)",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 118,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/81b916c675c053761a2538cd8392a5c5.PNG",
+      "title": "Комбо Тахир Садыкова 2",
+      "title_uz": "Kombo Tohir Sodiqova 2",
+      "title_ru": "Комбо Тахир Садыкова 2",
+      "price": 63000,
+      "description": "Ароматный лаваш с говядиной и сыром L, хрустящий картофель фри S и освежающий Pepsi (0,3 л)",
+      "description_uz": "Xushbo'y mol go'shtli va pishloqli lavash L, qarsildoq kartoshka fri S va tetiklantiruvchi Pepsi (0,3 l)",
+      "description_ru": "Ароматный лаваш с говядиной и сыром L, хрустящий картофель фри S и освежающий Pepsi (0,3 л)",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 119,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/ed56f9c1418abf6585aea1c7ee02155a.PNG",
+      "title": "Fita-Pita box 1",
+      "title_uz": "Fita-Pita box 1",
+      "title_ru": "Fita-Pita box 1",
+      "price": 42000,
+      "description": "2 сочные питы с курицей, 2 ароматных соуса ранч и хрустящий картофель фри S",
+      "description_uz": "2 shirali tovuqli pita, 2 xushbo'y ranch sous va qarsildoq kartoshka fri S",
+      "description_ru": "2 сочные питы с курицей, 2 ароматных соуса ранч и хрустящий картофель фри S",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 120,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/fcb39e255150f9b64e32591ed2a0267a.PNG",
+      "title": "Fita-Pita box 2",
+      "title_uz": "Fita-Pita box 2",
+      "title_ru": "Fita-Pita box 2",
+      "price": 47000,
+      "description": "2 аппетитные питы с говядиной, 2 ароматных томатных соуса и хрустящий картофель фри S",
+      "description_uz": "2 ishtahani ochuvchi mol go'shtli pita, 2 xushbo'y pomidor sousi va qarsildoq kartoshka fri S",
+      "description_ru": "2 аппетитные питы с говядиной, 2 ароматных томатных соуса и хрустящий картофель фри S",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 121,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/94d75690a87593c4f3d4654f0825f42b.PNG",
+      "title": "Donar-Pita box 1",
+      "title_uz": "Donar-Pita box 1",
+      "title_ru": "Donar-Pita box 1",
+      "price": 75000,
+      "description": "4 сочных питы с курицей, 4 ароматных соуса ранч и хрустящий картофель фри M",
+      "description_uz": "4 shirali tovuqli pita, 4 xushbo'y ranch sous va qarsildoq kartoshka fri M",
+      "description_ru": "4 сочных питы с курицей, 4 ароматных соуса ранч и хрустящий картофель фри M",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 122,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/562fbe93db2444921ee821ebb35d70c3.PNG",
+      "title": "Donar-Pita box 2",
+      "title_uz": "Donar-Pita box 2",
+      "title_ru": "Donar-Pita box 2",
+      "price": 77000,
+      "description": "2 аппетитных питы с говядиной, 2 сочных питы с курицей, 2 ароматных томатных соуса, 2 соуса ранч и картофель фри М",
+      "description_uz": "2 ishtahani ochuvchi mol go'shtli pita, 2 shirali tovuqli pita, 2 xushbo'y pomidor sousi, 2 ranch sous va kartoshka fri M",
+      "description_ru": "2 аппетитных питы с говядиной, 2 сочных питы с курицей, 2 ароматных томатных соуса, 2 соуса ранч и картофель фри М",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  },
+  {
+    "model": "home.product",
+    "pk": 123,
+    "fields": {
+      "category": 20,
+      "image": "https://16a9564f-f8ec-42ba-a998-3027aa809e50.selstorage.ru/evos/72611/30864/images/items/89e8cbfd1b9bff5ec6cc5adac6a4a42d.PNG",
+      "title": "Donar-Pita box 3",
+      "title_uz": "Donar-Pita box 3",
+      "title_ru": "Donar-Pita box 3",
+      "price": 82000,
+      "description": "4 аппетитных питы с говядиной, 4 ароматных томатных соуса и хрустящий картофель фри М",
+      "description_uz": "4 ishtahani ochuvchi mol go'shtli pita, 4 xushbo'y pomidor sousi va qarsildoq kartoshka fri M",
+      "description_ru": "4 аппетитных питы с говядиной, 4 ароматных томатных соуса и хрустящий картофель фри М",
+      "status": "True",
+      "create_at": "2026-08-16"
+    }
+  }
+]

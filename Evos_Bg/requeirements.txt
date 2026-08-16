@@ -1,0 +1,16 @@
+asgiref==3.12.1
+certifi==2026.7.22
+charset-normalizer==3.5.1
+Django==6.1
+django-leaflet==0.33.0
+django-leaflet-admin-list==0.0.11
+django-modeltranslation==0.20.3
+djangorestframework==3.18.0
+environs==15.1.0
+idna==3.18
+marshmallow==4.3.1
+python-dotenv==1.2.2
+requests==2.34.2
+sqlparse==0.6.0
+typing_extensions==4.16.0
+urllib3==2.7.0
