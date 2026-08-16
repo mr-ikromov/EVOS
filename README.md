@@ -46,14 +46,6 @@ Bot ichida quyidagi asosiy komandalar va menyu tugmalari mavjud:
 | `/language` | ⚙️ Sozlamalar | Bot interfeysi tilini o'zgartirish |
 
 ---
-
-## ⚙️ Ishlash Algoritmi (Workflow)
-
-1. Foydalanuvchi botni `/start` bosganda tilni tanlaydi (FSM orqali saqlanadi) va asosiy menyu ochiladi.
-2. Menyudan kategoriyani tanlaydi, so'ngra uchgan mahsulot rasmi va tavsifi chiqadi.
-3. "Xarid qilish" tugmasi bosilganda, mahsulot miqdorini tanlash uchun interaktiv `+` va `-` tugmalar ishlaydi.
-4. Mahsulot savatga qo'shiladi va backend'ga `POST` so'rovi bilan yuboriladi.
-5. Foydalanuvchi savatchaga kirib, buyurtma berishni boshlaydi:
    - Avval telefon raqamni yuboradi (Contact).
    - Keyin o'z manzilini yuboradi (Location).
 6. Bot lokatsiyani OpenStreetMap API ga yuborib, aniq manzilni oladi va buyurtma ma'lumotlari (mahsulotlar, miqdor, telefon, manzil) backend'ga buyurtma sifatida saqlanadi.
