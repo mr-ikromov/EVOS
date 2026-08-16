@@ -10,7 +10,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.client.default import DefaultBotProperties
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder, InlineKeyboardButton
 
-API_TOKEN = "8347857883:AAFLYWr8IRjBlTvkHwtYmgFHvj2usrfamq4"
+API_TOKEN = ""
 API_BASE = "http://127.0.0.1:8000"
 
 API_CATEGORY = f"{API_BASE}/Categories/"
