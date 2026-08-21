@@ -3,7 +3,7 @@ from home.models import Order
 from django.dispatch import receiver
 from django.db.models.signals import pre_save
 
-BOT_TOKEN = "8347857883:AAFLYWr8IRjBlTvkHwtYmgFHvj2usrfamq4"
+BOT_TOKEN = ""
 
 @receiver(pre_save, sender=Order)
 def accepted_signals(sender, instance, *args, **kwargs):
